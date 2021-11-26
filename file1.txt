@@ -2,3 +2,5 @@ this is my first git line
 this is second git line
 this is third line of git
 this is third commit
+this is the feature commit
+
